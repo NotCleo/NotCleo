@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NotCleo
-- 👀 I’m interested in Electronics
-- 🌱 I’m currently learning Electronics
-- 💞️ I’m looking to collaborate on Electronics
-- 📫 How to reach me :)
+- 👀 I’m interested in - processor architectures
+- 🌱 I’m currently learning - parallel and distributed computing
+- 💞️ I’m looking to collaborate - on any electronics/computer vision 
+- 📫 How to reach me - amrutayan30@gmail.com
 - 😄 Pronouns: he/he
-- ⚡ Fun fact: I can draw a circle by hand
+- ⚡ Fun fact: I make bad jokes and they like it ;)
 
