@@ -8,3 +8,5 @@ Actively learning Representation Theory!
 
 "assume i have a cmatrix anim running in my background lmao"
 
+My Favourite place to tinker around - https://godbolt.org/
+
