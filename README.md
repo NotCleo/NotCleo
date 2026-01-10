@@ -14,5 +14,20 @@ Some tools/websites that I liked are:
 - https://elixir.bootlin.com/linux/v6.2.12/source/kernel
 - https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.78113&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 - https://poloclub.github.io/cnn-explainer/
-- https://github.com/YosysHQ/oss-cad-suite-build.git
 
+(Refer the repo : ECS324 : VLSI Testing-Verification)
+
+    - SYNTHESIS AND EQUIVALENCE CHECK - https://github.com/YosysHQ/oss-cad-suite-build.git
+    - VLSI Testing/Verification tools - https://github.com/RTimothyEdwards
+    - ATALANTA - ATPG PATTERN GENERATION AND INBUILT FAULT ANALYSIS - https://github.com/hsluoyz/Atalanta 
+    - Fault - https://github.com/AUCOHL/Fault
+
+
+
+Personal Notes : 
+
+For Vivado : /opt/Vivado/2023.2/bin/vivado from ~/
+
+For other tools (coursework tools) : Refer Instructions.txt
+
+    
