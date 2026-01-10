@@ -28,6 +28,8 @@ Personal Notes :
 
 For Vivado : /opt/Vivado/2023.2/bin/vivado from ~/
 
+For Putty (Serial Terminal CAUSE MOBAXTERM DOESNT WORK!) : GDK_BACKEND=x11 putty at 115200 after verifying at /dev/ttyUSB0/1
+
 For other tools (coursework tools) : Refer Instructions.txt
 
     
