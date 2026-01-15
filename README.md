@@ -23,6 +23,9 @@ Some tools/websites that I liked are:
     - Fault - https://github.com/AUCOHL/Fault
 
 
+Graph tool - Graphviz or Netron 
+
+
 
 Personal Notes : 
 
