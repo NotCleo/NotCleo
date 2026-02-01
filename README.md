@@ -4,6 +4,8 @@
 
 - https://github.com/sparkengineering/host-usb-pmod
 - https://www.janestreet.com/puzzles/archive/
+
+- To launch Ltspice; wine ~/.wine/drive_c/Program\ Files\ (x86)/LTC/LTspiceIV/scad3.exe
   
 Some tools/websites that I liked are:
 - https://godbolt.org/
