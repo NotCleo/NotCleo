@@ -5,6 +5,8 @@
 - https://github.com/sparkengineering/host-usb-pmod
 - https://www.janestreet.com/puzzles/archive/
 
+
+Pro tip : Whenever you wanna name any product / tool / whatever just come over here - https://greekgodsandgoddesses.net/goddesses/ (i have dibs on Clio and Artemis and Iris!!!)
 - To launch Ltspice; wine ~/.wine/drive_c/Program\ Files\ (x86)/LTC/LTspiceIV/scad3.exe
   
 Some tools/websites that I liked are:
