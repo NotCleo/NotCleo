@@ -4,6 +4,7 @@
 
 - https://github.com/sparkengineering/host-usb-pmod
 - https://www.janestreet.com/puzzles/archive/
+- https://github.com/NXP/eiq-model-zoo/blob/main/tasks/vision/classification/visual-wake-word/README.md
 
 
 handy (of the most) linux command : find / -type f -name "<filename>" 2>/dev/null 
