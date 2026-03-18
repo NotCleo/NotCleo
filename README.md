@@ -12,6 +12,8 @@ handy (of the most) linux command : find / -type f -name "<filename>" 2>/dev/nul
 
 
 Pro tip : Whenever you wanna name any product / tool / whatever just come over here - https://greekgodsandgoddesses.net/goddesses/ (i have dibs on Clio and Artemis and Iris!!!)
+
+Not so Pro tip : Whenever you wanna find a good research paper, google scholar is the go to site to begin the search!!
 - To launch Ltspice; wine ~/.wine/drive_c/Program\ Files\ (x86)/LTC/LTspiceIV/scad3.exe
   
 Some tools/websites that I liked are:
