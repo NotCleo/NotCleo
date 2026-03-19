@@ -9,6 +9,7 @@
 
 handy (of the most) linux command : find / -type f -name "<filename>" 2>/dev/null 
 
+Q.E.D. stands for the Latin phrase quod erat demonstrandum, which translates to "that which was to be demonstrated"
 
 
 Pro tip : Whenever you wanna name any product / tool / whatever just come over here - https://greekgodsandgoddesses.net/goddesses/ (i have dibs on Clio and Artemis and Iris!!!)
