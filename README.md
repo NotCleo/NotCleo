@@ -8,6 +8,8 @@
 
 https://github.com/Digilent/vivado-boards/tree/master
 
+https://formal.org/
+
 handy (of the most) linux command : find / -type f -name "<filename>" 2>/dev/null 
 
 Q.E.D. stands for the Latin phrase quod erat demonstrandum, which translates to "that which was to be demonstrated"
