@@ -1,4 +1,5 @@
 -  Hi there! I’m Amruth Ayaan
+-  Student at Indian Institute of Information Technology Kottayam
 -  How to reach out to me - amrutayan6@gmail.com
 
 - https://github.com/sparkengineering/host-usb-pmod
