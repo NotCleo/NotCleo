@@ -5,7 +5,9 @@
 
  
 Some tools/websites that I liked are:
-  
+
+
+    - https://6it.dev/blog/page/1  
     - https://github.com/sparkengineering/host-usb-pmod
     - https://www.janestreet.com/puzzles/archive/
     - https://github.com/NXP/eiq-model-zoo/blob/main/tasks/vision/classification/visual-wake-word/README.md
