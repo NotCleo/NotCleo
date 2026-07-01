@@ -1,6 +1,8 @@
 -  Hi there! I’m Amruth Ayaan
 -  How to reach out to me - amrutayan6@gmail.com
 
+###
+I am not out of ideas that other people have come up with
 
 
  
