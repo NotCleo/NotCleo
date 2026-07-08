@@ -24,3 +24,4 @@ Some tools/websites that I liked are:
     - https://elixir.bootlin.com/linux/v6.2.12/source/kernel
     - https://playground.tensorflow.org/
     - Graph tool - Graphviz or Netron 
+    - https://medium.com/@agnathavasi360
