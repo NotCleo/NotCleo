@@ -26,3 +26,5 @@ Some tools/websites that I liked are:
     - https://playground.tensorflow.org/
     - Graph tool - Graphviz or Netron 
     - https://medium.com/@agnathavasi360 (PD blogs)
+    - https://www.youtube.com/@ALLABOUTELECTRONICS/videos
+    - https://www.physicaldesign4u.com/search/label/Sanity%20checks?&max-results=7
