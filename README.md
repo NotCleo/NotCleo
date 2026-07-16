@@ -10,6 +10,7 @@ I am not out of ideas that other people have come up with
  
 Some tools/websites that I liked are:
 
+    - https://www.youtube.com/@CoreDumpped/videos
     - https://6it.dev/blog/page/1  (Interesting blogs)
     - www.youtube.com/watch?v=NeLkxuzCssA (Software Design Principles)
     - https://github.com/sparkengineering/host-usb-pmod (A nice way to introduce USB to Arty FPGAs)
