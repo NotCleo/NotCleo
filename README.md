@@ -11,6 +11,8 @@ I am not out of ideas that other people have come up with
 Some tools/websites that I liked are:
 
     - https://www.youtube.com/@CoreDumpped/videos
+    - https://siliconpath.in/
+    - https://chipdesignrashid.github.io/chip-design-website/
     - https://docs.amd.com/
     - https://6it.dev/blog/page/1  (Interesting blogs)
     - www.youtube.com/watch?v=NeLkxuzCssA (Software Design Principles)
