@@ -12,6 +12,7 @@ Some tools/websites that I liked are:
 
     - https://www.youtube.com/@CoreDumpped/videos
     - https://siliconpath.in/
+    - https://github.com/Arm-Examples/ML-zoo
     - https://chipdesignrashid.github.io/chip-design-website/
     - https://docs.amd.com/
     - https://6it.dev/blog/page/1  (Interesting blogs)
