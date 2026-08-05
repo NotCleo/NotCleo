@@ -11,6 +11,7 @@ I am not out of ideas that other people have come up with
 Some tools/websites that I liked are:
 
     - https://www.youtube.com/@CoreDumpped/videos
+    - https://cp-algorithms.com/navigation.html
     - https://siliconpath.in/
     - https://github.com/Arm-Examples/ML-zoo
     - https://chipdesignrashid.github.io/chip-design-website/
