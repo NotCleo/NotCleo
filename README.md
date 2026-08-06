@@ -1,15 +1,11 @@
--  Hi there! I’m Amruth Ayaan
--  How to reach out to me - amrutayan6@gmail.com
+-  Hey! I’m Amruth Ayaan
+-  Reach out to me : amrutayan6@gmail.com
 
-###
-
-Undergrad or underground? only one way to find out
-
-I am not out of ideas that other people have come up with
-
+"I am not out of ideas that other people have come up with"
  
 Some tools/websites that I liked are:
 
+    - https://gds-viewer.tinytapeout.com/
     - https://www.youtube.com/@CoreDumpped/videos
     - https://www.youtube.com/@BitLemonSoftware
     - https://www.youtube.com/@rybkr
@@ -28,7 +24,6 @@ Some tools/websites that I liked are:
     - https://github.com/HewlettPackard/cacti (Cache simulator)
     - https://github.com/lutzroeder/netron (CNN but as a graph)
     - https://github.com/HarisIqbal88/PlotNeuralNet.git (CNN but as those nice boxy diagrams)
-    - https://www.cse.iitd.ac.in/~srsarangi/archbook/software/interpreter.zip 
     - https://cpulator.01xz.net/?sys=arm
     - https://elixir.bootlin.com/linux/v6.2.12/source/kernel (Holy grail)
     - https://playground.tensorflow.org/
