@@ -5,6 +5,7 @@
  
 Some tools/websites that I liked are:
 
+    - https://fpgadesign.io/
     - https://gds-viewer.tinytapeout.com/
     - https://www.youtube.com/@CoreDumpped/videos
     - https://www.youtube.com/@BitLemonSoftware
