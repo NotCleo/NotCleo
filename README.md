@@ -5,6 +5,7 @@
  
 Some tools/websites that I liked are:
 
+    - https://www.statlect.com/
     - https://blog.xa0.de/post/List-of-QUBO-formulations/
     - https://krazydad.com/?mode=interactive
     - https://fpgadesign.io/
