@@ -5,6 +5,7 @@
  
 Some tools/websites that I liked are:
 
+    - https://blog.xa0.de/post/List-of-QUBO-formulations/
     - https://krazydad.com/?mode=interactive
     - https://fpgadesign.io/
     - https://gds-viewer.tinytapeout.com/
