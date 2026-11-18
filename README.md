@@ -1,4 +1,4 @@
--  Hi! I’m Amruth Ayaan Gulawani
--  Reach out : amrutayan6@gmail.com
+-  hi! i’m amrut
+-  reach out : amrutayan6@gmail.com
 
-Just so you know, I am not out of ideas that other people have come up with ^_^
+just so you know, I am not out of ideas that other people have come up with :P
